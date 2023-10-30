@@ -63,3 +63,42 @@ adaptations that give them a pincer-like grip and enable them to grasp branches 
 Slow lorises have a toxic bite, a rare trait among mammals.`;
  document.getElementById("slowLoris").innerHTML = expandedParagraph;
  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ var sum = 14;
+ if (sum<20) {
+      alert("under")
+ }else{
+      alert("over")
+ }
+
+
+ var  name = "John Applesesed";
+ var newName =name.slice(5,10)
+ console.log(newName);
+
+var arr= [];
+arr[0]= 'a';
+arr[1]= 'b';
+alert(arr.length)
+
+
+
+
+
+
+
+let value = document.getElementById('name').value;
+console.log(value);
